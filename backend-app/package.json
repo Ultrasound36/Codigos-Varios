@@ -1,0 +1,14 @@
+{
+  "name": "curso-typescrypt",
+  "version": "1.0.0",
+  "description": "Solo para pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maguila",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  }
+}
